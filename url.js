@@ -9,6 +9,19 @@
 
 const urls = [
 	'https://www.surveycake.com/s/BP89V',
-	'https://www.surveycake.com/s/NP6rD',
-	'https://gitlab.com/hms5232'
+	'https://www.surveycake.com/s/BPbra',
+	'https://www.surveycake.com/s/NPV3y',
+	'https://www.surveycake.com/s/bpGmd',
+	'https://www.surveycake.com/s/34d0k',
+	'https://www.surveycake.com/s/2olww',
+	'https://www.surveycake.com/s/zZK4G',
+	'https://www.surveycake.com/s/lZGoy',
+	'https://www.surveycake.com/s/BPbQa',
+        'https://www.surveycake.com/s/KPX1R',
+        'https://www.surveycake.com/s/Y6Gx2',
+        'https://www.surveycake.com/s/vZvGO',
+        'https://www.surveycake.com/s/9qrB7',
+        'https://www.surveycake.com/s/OPz22',
+        'https://www.surveycake.com/s/LP2zP',
+	'https://www.surveycake.com/s/34dMb'
 ];
